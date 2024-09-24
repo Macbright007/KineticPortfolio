@@ -85,11 +85,12 @@ nav {
   height: 100%;
   margin-top: 2rem;
   margin-left: 2rem;
-  background-color: #674ac7;
+  background-color: #000;
+  /* background-color: #674ac7; */
 }
 .bgBlue > img,
 .aboutImg > img {
-  width: 100%;
+  width: 40%;
   height: 100%;
   object-fit: cover;
 }
